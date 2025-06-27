@@ -1,4 +1,4 @@
-# crush
+
 
 
     crush your images! 
@@ -99,7 +99,7 @@
     ║ ► SVG Export             - Scalable vector graphics                               ║
     ║ ► ZIP Batch Export       - Multiple format packaging                              ║
     ║ ► GIF Animation          - Animated sequence export                               ║
-    ║ ► Print Support          - Direct printer output                                  ║                        ║
+    ║ ► Print Support          - Direct printer output                                  ║                        
     ╚═══════════════════════════════════════════════════════════════════════════════════╝
     
     ╔═══════════════════════════════════════════════════════════════════════════════════╗
