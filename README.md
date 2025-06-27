@@ -1,4 +1,4 @@
-## crush your images! 
+crush your images! 
 ### USE APP HERE
     
 [https://bitm4ncer.github.io/CRUSH/](https://bitm4ncer.github.io/CRUSH/)
