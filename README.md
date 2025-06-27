@@ -10,7 +10,7 @@
     
 
 
-    ![CRUSH Preview](daza/preview.png)
+    ![CRUSH Preview](data/preview.png)
     
     ### FEATURE LIST
     
