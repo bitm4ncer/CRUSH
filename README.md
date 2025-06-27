@@ -36,7 +36,7 @@
     ║ ├─ Random/Noise (Stochastic dithering)                                            ║
     ║ └─ Halftone (Newspaper-style dots)                                                ║
     ║                                                                                   ║
-    ║ SPECIAL EFFECTS:                                                                  ║
+    ║ EXPERIMENTAL EFFECTS:                                                                  ║
     ║ ├─ Bit Tone (Digital artifact simulation)                                         ║
     ║ ├─ Checkerboard (Pattern-based)                                                   ║
     ║ ├─ Radial Burst (Circular patterns)                                               ║
