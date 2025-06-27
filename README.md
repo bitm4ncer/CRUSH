@@ -1,13 +1,16 @@
 # crush
 
 
-    crush is a free dithering and glitch web tool. 
+    crush your images! 
     
     ### USE APP HERE
     
-    ▶ https://bitm4ncer.github.io/CRUSH/
+    ▶ [https://bitm4ncer.github.io/CRUSH/](https://bitm4ncer.github.io/CRUSH/)
     
     
+
+
+    ![CRUSH Preview](daza/preview.png)
     
     ### FEATURE LIST
     
